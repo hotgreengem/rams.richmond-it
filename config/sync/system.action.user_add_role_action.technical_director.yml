@@ -1,0 +1,14 @@
+uuid: 06beeb49-f526-4c92-b9ad-45ee351bc705
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.technical_director
+  module:
+    - user
+id: user_add_role_action.technical_director
+label: 'Add the Technical Director role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: technical_director

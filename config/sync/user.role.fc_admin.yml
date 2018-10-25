@@ -1,0 +1,9 @@
+uuid: b6ee3e99-deb3-4209-b416-d16feff02cb4
+langcode: en
+status: true
+dependencies: {  }
+id: fc_admin
+label: 'FC Admin'
+weight: -3
+is_admin: null
+permissions: {  }

@@ -1,0 +1,9 @@
+uuid: 29066c80-b18e-4a3e-ad4b-f7f43523b38f
+langcode: en
+status: true
+dependencies: {  }
+id: fc_news
+label: 'FC News'
+weight: -6
+is_admin: null
+permissions: {  }

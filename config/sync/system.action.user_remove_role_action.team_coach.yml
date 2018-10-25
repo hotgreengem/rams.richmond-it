@@ -1,0 +1,14 @@
+uuid: 597f1dd9-6fe0-442b-9dfe-810cbbfd5b22
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.team_coach
+  module:
+    - user
+id: user_remove_role_action.team_coach
+label: 'Remove the Team Coach role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: team_coach

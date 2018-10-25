@@ -1,0 +1,9 @@
+uuid: 6cec5d0c-fa74-4bf7-b92b-0711eb85e3c4
+langcode: en
+status: true
+dependencies: {  }
+id: technical_director
+label: 'Technical Director'
+weight: -4
+is_admin: null
+permissions: {  }

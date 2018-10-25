@@ -1,0 +1,14 @@
+uuid: 17722b1a-f324-4919-b69d-d55fcc4b91a2
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.technical_director
+  module:
+    - user
+id: user_remove_role_action.technical_director
+label: 'Remove the Technical Director role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: technical_director

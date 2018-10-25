@@ -1,0 +1,14 @@
+uuid: 59939ece-eca1-4eb9-99a6-4fbd7a52cc82
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.team_coach
+  module:
+    - user
+id: user_add_role_action.team_coach
+label: 'Add the Team Coach role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: team_coach

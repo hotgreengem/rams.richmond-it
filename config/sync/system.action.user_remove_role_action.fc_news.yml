@@ -1,0 +1,14 @@
+uuid: 385bce74-82dc-4d94-9d9c-8fe8044b6f19
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.fc_news
+  module:
+    - user
+id: user_remove_role_action.fc_news
+label: 'Remove the FC News role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: fc_news

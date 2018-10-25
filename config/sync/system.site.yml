@@ -1,0 +1,14 @@
+uuid: 2b1c1967-3478-45d6-a026-a91781eeafbb
+name: 'Macarthur Rams Football Club'
+mail: info@rams.richmond-it.com.au
+slogan: 'back to winning ways'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

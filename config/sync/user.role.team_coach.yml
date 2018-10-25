@@ -1,0 +1,9 @@
+uuid: 3af82e4b-0743-4ba2-928d-aca9e6adb41c
+langcode: en
+status: true
+dependencies: {  }
+id: team_coach
+label: 'Team Coach'
+weight: -5
+is_admin: null
+permissions: {  }

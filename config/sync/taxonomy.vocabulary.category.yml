@@ -1,0 +1,9 @@
+uuid: 23029b33-332c-4697-b792-9d7754e1ddb0
+langcode: en
+status: true
+dependencies: {  }
+name: Category
+vid: category
+description: 'Category for post types'
+hierarchy: 1
+weight: 0

@@ -1,0 +1,14 @@
+uuid: 6d4a6476-1f0d-4662-aa9e-d8b4c14fed04
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.team_manager
+  module:
+    - user
+id: user_remove_role_action.team_manager
+label: 'Remove the Team Manager role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: team_manager

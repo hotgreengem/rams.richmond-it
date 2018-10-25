@@ -1,0 +1,9 @@
+uuid: 7eca7348-42b9-4d62-bba1-36256995389b
+langcode: en
+status: true
+dependencies: {  }
+id: team_manager
+label: 'Team Manager'
+weight: -7
+is_admin: null
+permissions: {  }
